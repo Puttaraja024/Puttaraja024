@@ -20,7 +20,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🚀 Technologies and Tools I Use:
@@ -31,9 +30,24 @@
 
 ---
 
+## 🏆 Hackathon Certifications  
+
+<table>
+  <tr>
+   <td align="center">
+      <img src="https://www.linkedin.com/posts/g-n-puttaraja_hackathon-ieeephotonics-activity-7284046137022455808-B_2O?utm_source=share&utm_medium=member_desktop&rcm=ACoAADeOfasBTBj_84K10Fasybrpffz27KC3z0M">
+    </td>
+    <td align="center">
+      <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300px">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔗 Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/g-n-puttaraja"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/Puttaraja024"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="puttaraja.1si22ei006@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:puttaraja.1si22ei006@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
