@@ -28,22 +28,8 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,bootstrap,jquery,git,linux" />
 </p>
 
----
 
-## 🏆 Hackathon Certifications  
 
-<table>
-  <tr>
-   <td align="center">
-      <img src="https://www.linkedin.com/posts/g-n-puttaraja_hackathon-ieeephotonics-activity-7284046137022455808-B_2O?utm_source=share&utm_medium=member_desktop&rcm=ACoAADeOfasBTBj_84K10Fasybrpffz27KC3z0M">
-    </td>
-    <td align="center">
-      <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300px">
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🔗 Let's Connect:
 <p align="center">
